@@ -1,12 +1,10 @@
-import React from 'react'
+import Intro from './Intro'
 
 function App() {
-  console.log("hello color");
-  
-  
   return (
-    <h1> this is react</h1>
-      
+    <>
+      <Intro />
+    </>
   )
 }
 
